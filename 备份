@@ -1,0 +1,3 @@
+git 备份
+git clone --bare https://github.com/shiminde/system-Manage.git
+git push --mirror http://git@github.com/shiminde/lalal.git
